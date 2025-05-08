@@ -1,4 +1,5 @@
 def hello():
     print("Hello, Jiseong!")
 
-hello()
+for i in range(10):
+    hello()
